@@ -1,0 +1,5 @@
+---
+## 🐍 Usage
+1. Install dependencies:
+   ```bash
+   pip install PyPDF2
