@@ -2,7 +2,7 @@ import os
 import PyPDF2
 
 # Step 1: Define the folder path
-folder_path = r"C:\Users\innot\OneDrive\Documents\careersearch\2026"
+folder_path = r"rootfolder:\folder\subfolder\folder"
 
 # Step 2: List all files in the folder
 files = os.listdir(folder_path)
