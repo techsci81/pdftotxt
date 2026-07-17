@@ -4,6 +4,15 @@ This repository provides simple Python scripts to automate the conversion of PDF
 It is designed for users who want to quickly extract text from PDF documents and save them in a reproducible, editable format.
 
 ---
+# To convert a SINGLE file, PDF to TXT
+USE THIS SCRIPT
+pdftotxt.py
+---
+---
+# To convert all PDF files in the folder, PDF to TXT
+USE THIS SCRIPT
+pdftotxt-entirefolder.py
+---
 
 ## ✨ Features
 - Sorts files in a target folder by name.
