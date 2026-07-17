@@ -1,3 +1,4 @@
+# USEFUL WHEN ONLY ONE FILE NEED TO BE CONVERTED TO TXT
 import PyPDF2
 
 pdf_file = open(r"rootdrive:\folder\subfolder\filename.pdf", "rb")
