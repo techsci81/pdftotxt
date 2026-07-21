@@ -27,3 +27,9 @@ pdftotxt-entirefolder.py
 
 ## 📂 Folder Setup
 Place your PDF files in the target folder, for example:
+
+---
+### Windows Installation Folder is available
+- Contact: <singaravelu.velayudham@outlook.com> with subject line: Access Request for PDF2TXT for Windows installation.
+- File size is approx 470 MB
+- <https://1drv.ms/u/c/f6ea561b049833bb/IQDewNOq5d-rTYF0mj1Cnlc9Aa_RnRKCaLLqNOnCz8Wos8U?e=AfG9nL>
